@@ -6,7 +6,7 @@ License: Creative Commons Attribution-NonCommercial 4.0 International [(CC BY-NC
 
 Dataset & Code to be cited as: 
 
-    Sean Rehaag, "Supreme Court of Canada Bulk Decisions Dataset" (2023), online: Refugee Law Laboratory <https://refugeelab.ca/bulk-data/scc/>.
+    Sean Rehaag, "Supreme Court of Canada Bulk Decisions Dataset" (2023), online: Refugee Law Laboratory <https://refugeelab.ca/bulk-data/scc>.
 
 To load data, see [load_and_analyze_scc_cases.ipynb](https://github.com/Refugee-Law-Lab/scc_bulk_data/blob/master/load_and_analyze_scc_cases.ipynb)
 
